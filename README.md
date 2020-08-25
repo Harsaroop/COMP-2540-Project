@@ -19,4 +19,4 @@ endpoints, the result is the shortest route Mr. A can use so 3 people, if
 not more can reach their desired destination with consuming fuel for
 only one car, rather than more. Hence, saving the gas and the world for
 us and our future generations, with an intent of a less polluted
-environment of our planet, Earth 1
+environment of our planet.
