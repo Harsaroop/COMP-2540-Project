@@ -14,7 +14,7 @@ cool with the concept of car-pooling. Here's Mr. A, who wants to head
 from Downtown to University. Now, Mr. A knows Mr. X and Mr. Q who
 wants to visit the City center and the mall, respectively. So, Mr. A
 inputs the same; and with the power of Graphs and Priority queues,
-wonders of Dijkstra's and Kruskal's Algorithms, inputs of pickups and
+wonders of Kruskal's Algorithms, inputs of pickups and
 endpoints, the result is the shortest route Mr. A can use so 3 people, if
 not more can reach their desired destination with consuming fuel for
 only one car, rather than more. Hence, saving the gas and the world for
